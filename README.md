@@ -28,4 +28,4 @@ README.md: Project overview and details.
 
 # How to Run the Notebook
 ## Clone the repository:
-git clone https://github.com/your-username/CreditRiskAnalyzer.git
+git clone https://github.com/kartik350/CreditRiskAnalyzer.git
