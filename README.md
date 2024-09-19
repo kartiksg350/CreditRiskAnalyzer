@@ -16,16 +16,16 @@ Address data imbalance in the target variable.
 Explore bivariate relationships to understand the interaction between variables.
 Perform correlation analysis to identify strong predictors of loan default risk.
 
-## Tools Used
+## Tools Used
 Python for data processing and analysis.
 Jupyter Notebook for interactive data exploration.
 Pandas, NumPy for data manipulation.
 Seaborn, Matplotlib for data visualization.
 
-##Repository Structure
+## Repository Structure
 CreditRiskAnalyzer_Solution.ipynb: The main Jupyter Notebook containing the entire analysis.
 README.md: Project overview and details.
 
-# How to Run the Notebook
+# How to Run the Notebook
 ## Clone the repository:
 git clone https://github.com/kartik350/CreditRiskAnalyzer.git
